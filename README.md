@@ -1,1 +1,1 @@
-# PyDataEHV_workshop
+# PyData-EHV-workshop

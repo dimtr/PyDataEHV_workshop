@@ -4,6 +4,8 @@ Python notebooks on deep generative models for image and text generations for Py
 
 The [Image Generation](https://github.com/dimtr/PyDataEHV_workshop/tree/master/Image%20Generation) directory contains the notebooks for image generation using VAE and GAN trained on Fashion MNIST dataset by ZalandoResearch.
 
+References for the Image Generation Part can be found in the slides and the notebooks.
+
 The [Text Generation](https://github.com/dimtr/PyDataEHV_workshop/tree/master/TextGeneration) directory contains the notebooks for text generation based on RNN and LSTM trained on Shakespeare and Sherlock Holmes text dataset.
 The text data can be found in the [datasets](https://github.com/dimtr/PyDataEHV_workshop/tree/master/TextGeneration/datasets) directory. Several checkpoints are included to skip the training step. Load the appropriate checkpoint and generate conditional or unconditional texts in Shakespeare style.
 
